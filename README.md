@@ -1,5 +1,5 @@
 
-# Pypharmaceuticals
+# Pymaceuticals
 
 trend 1: Compared to the placebo, most of the drugs were similarly ineffective in curtailing tumor growth other than Capomullin and Ramicane.
 
